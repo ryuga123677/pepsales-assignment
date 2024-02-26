@@ -128,7 +128,7 @@ function App() {
                   <tr className="">
                     <th className="border border-black p-2">First Name </th>
                     <th className="border border-black p-2">Last Name</th>
-                    <th className="border border-black p-2">Date of Birth</th>
+                    <th className="border border-black p-2">Current age</th>
                     <th className="border border-black p-2">Grade</th>
                     <th className="border border-black p-2">Gender</th>
                     <th className="border border-black p-2">Edit</th>
